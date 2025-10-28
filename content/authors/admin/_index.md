@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -49,7 +49,7 @@ profiles:
 
 interests:
   - Large Language Models
-  - Computer Vision
+  - 
   - Reinforcement Learning
   - AI Ethics
 
@@ -169,4 +169,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a second-year PhD student in Artificial Intelligence at IIT Hyderabad, advised by Dr. P. N. Karthik. My research focuses on multi-armed bandits and their applications in decision-making within the emerging Agentic AI ecosystem. Prior to my doctoral studies, I earned a B.Tech (CSE, Honours) from IIIT Kottayam and a B.S. in Data Science & Applications from IIT Madras, which provided me with a strong foundation in machine learning, data science and systems.
+
+In addition to my research, I am serving as a Teaching Assistant for the courses Probability & Stochastic Processes and Statistical Learning Theory. I also secured an All-India Rank of 336 in GATE (DS&AI). My broader interests lie in advancing online learning, adaptive decision-making, and feedback-driven intelligent systems, with a focus on practical applications in agentic AI.
