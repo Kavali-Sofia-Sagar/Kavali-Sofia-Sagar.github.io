@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: 
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in Artificial Intelligence 
+role: PhD in AI
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: IIT Hyderabad 
+  - name: IIT Hyderabad
     url: https://ai.iith.ac.in/ph-d-students/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ai24resch11003@iith.ac.in'
+    url: "mailto:ai24resch11003@iith.ac.in"
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Kavali-Sofia-Sagar
@@ -42,56 +42,66 @@ profiles:
     url: https://www.linkedin.com/in/kavali-sofia-sagar-ai-phd/
 
 interests:
-  - Sequential Hypothesis Testing 
+  - Sequential Hypothesis Testing
   - Multi-Armed Bandits
   - Agentic AI
   - Reinforcement Learning
 
 education:
-  - area: PhD 
-    institution: Indian Institute of Technology Hyderabad 
+  - area: PhD Artificial Intelligence
+    institution: Indian Institute of Technology Hyderabad
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: "2024-08-01"
+    date_end: ""
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      PhD Advisor: Dr. P. N. Karthik
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+      Cumulative Grade Point Average: 8.75
 
-      Minored in Mathematics. President of AI Club.
+      Relevant Courses: Probability and Stochastic Processes, Advanced
+      Data Structures and Algorithms, Foundations of Machine Learning,
+      Stochastic Processes: Theory and Applications, Deep Learning
+
+  - area: B.S. in Data Science and Applications (Online)
+    institution: Indian Institute of Technology Madras
+    icon: ""
+    date_start: "2021-01-01"
+    date_end: "2025-03-01"
+    summary: |
+      Graduated with 8.04 cumulative average
+
+      Relevant Courses: Privacy and security in online social media, Modern
+      Application Development, AI: search methods for problem solving,
+      Database Management Systems, Data Structures and Algorithms
+
+  - area: B.Tech Computer Science and Engineering
+    institution: Indian Institute of Information Technology Kottayam
+    icon: ""
+    date_start: "2020-08-01"
+    date_end: "2024-06-01"
+    summary: |
+      Graduated with Honors, 95.8% cumulative average
+    
+      Relevant Courses: Artificial Intelligence, Operating Systems, Theory
+      of Computation, Object-Oriented Analysis and Design, Compiler
+      Design, Soft Computing, Cloud Computing, Blockchain Technology
+
 
 work:
   - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    company_name: 
+    company_url: "https://www.cdac.in/"
+    icon: ""
+    date_start: "2024-06-01"
+    date_end: "2024-07-01"
+    summary: |
+      Gained initial exposure to applied Research and Development workflows and disciplined software practices.
   - position: AI Research Intern
     company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    company_url: "https://openai.com/"
+    icon: ""
+    date_start: "2019-06-01"
+    date_end: "2019-12-31"
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
@@ -101,72 +111,30 @@ skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
-        description: ''
-        percent: 95
+        description: ""
+        percent: 90
         icon: code-bracket
       - name: Machine Learning
-        description: ''
+        description: ""
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: C++
+        description: ""
         percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: code-bracket
 
 languages:
   - name: English
     percent: 100
-  - name: Telgu
+  - name: Telugu
     percent: 100
   - name: Hindi
     percent: 90
   - name: French
     percent: 70
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award 
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a second-year PhD student in Artificial Intelligence at IIT Hyderabad, advised by Dr. P. N. Karthik. My research focuses on multi-armed bandits and their applications in decision-making within the emerging Agentic AI ecosystem. Prior to my doctoral studies, I earned a B.Tech (CSE, Honours) from IIIT Kottayam and a B.S. in Data Science & Applications from IIT Madras, which provided me with a strong foundation in machine learning, data science and systems.
+I am a second-year PhD student in Artificial Intelligence at IIT Hyderabad, advised by Dr. P. N. Karthik. My research focuses on multi-armed bandits and their applications in decision-making within the emerging Agentic AI ecosystem. Prior to my doctoral studies, I earned a B.Tech (CSE, Honours) from IIIT Kottayam and a B.S. in Data Science & Applications from IIT Madras, which provided me with a strong foundation in machine learning, data science and systems. 
 
 In addition to my research, I am serving as a Teaching Assistant for the courses Probability & Stochastic Processes and Statistical Learning Theory. I also secured an All-India Rank of 336 in GATE (DS&AI). My broader interests lie in advancing online learning, adaptive decision-making, and feedback-driven intelligent systems, with a focus on practical applications in agentic AI.
