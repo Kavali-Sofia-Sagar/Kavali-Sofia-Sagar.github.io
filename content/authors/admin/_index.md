@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in AI 
+role: PhD in Artificial Intelligence 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,33 +34,27 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'ai24resch11003@iith.ac.in'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Kavali-Sofia-Sagar
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/kavali-sofia-sagar-ai-phd/
 
 interests:
-  - Large Language Models
-  - 
+  - Sequential Hypothesis Testing 
+  - Multi-Armed Bandits
+  - Agentic AI
   - Reinforcement Learning
-  - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD 
+    institution: Indian Institute of Technology Hyderabad 
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
@@ -138,15 +132,19 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Telgu
+    percent: 100
+  - name: Hindi
+    percent: 90
+  - name: French
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
+  - title: Best Paper Award 
     url: https://neurips.cc/
     date: '2022-12-01'
     awarder: NeurIPS
