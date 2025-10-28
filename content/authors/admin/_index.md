@@ -88,22 +88,22 @@ education:
 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: 
+  - position: AI Research Intern
+    company_name: Indian Institute of Technology Hyderabad
+    company_url: "https://www.iith.ac.in/"
+    icon: ""
+    date_start: "2024-08-01"
+    date_end: ""
+    summary: |
+      My research explores sequential hypothesis testing and active learning methods for complex, temporally dependent data.
+  - position: Trainee 
+    company_name: Centre for Development of Advanced Computing, India
     company_url: "https://www.cdac.in/"
     icon: ""
     date_start: "2024-06-01"
     date_end: "2024-07-01"
     summary: |
       Gained initial exposure to applied Research and Development workflows and disciplined software practices.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: "https://openai.com/"
-    icon: ""
-    date_start: "2019-06-01"
-    date_end: "2019-12-31"
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
