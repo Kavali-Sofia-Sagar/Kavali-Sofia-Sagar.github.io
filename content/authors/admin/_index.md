@@ -86,8 +86,7 @@ education:
       of Computation, Object-Oriented Analysis and Design, Compiler
       Design, Soft Computing, Cloud Computing, Blockchain Technology
 
-
-work:
+Work Experience:
   - position: Graduate Researcher
     company_name: Indian Institute of Technology Hyderabad
     company_url: "https://www.iith.ac.in/"
@@ -105,6 +104,34 @@ work:
     summary: |
       Gained initial exposure to applied Research and Development workflows and disciplined software practices.
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python & PyTorch
+        description: ""
+        percent: 90
+        icon: code-bracket
+      - name: Machine Learning
+        description: ""
+        percent: 100
+        icon: chart-bar
+      - name: C++
+        description: ""
+        percent: 85
+        icon: code-bracket
+
+languages:
+  - name: English
+    percent: 100
+  - name: Telugu
+    percent: 100
+  - name: Hindi
+    percent: 90
+  - name: French
+    percent: 70
+    
 ---
 
 I am a second-year PhD student in Artificial Intelligence at IIT Hyderabad, advised by Dr. P. N. Karthik. My research focuses on multi-armed bandits and their applications in decision-making within the emerging Agentic AI ecosystem. Prior to my doctoral studies, I earned a B.Tech (CSE, Honours) from IIIT Kottayam and a B.S. in Data Science & Applications from IIT Madras, which provided me with a strong foundation in machine learning, data science and systems. 
