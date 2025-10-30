@@ -86,7 +86,7 @@ education:
       of Computation, Object-Oriented Analysis and Design, Compiler
       Design, Soft Computing, Cloud Computing, Blockchain Technology
 
-Work Experience:
+work:
   - position: Graduate Researcher
     company_name: Indian Institute of Technology Hyderabad
     company_url: "https://www.iith.ac.in/"
