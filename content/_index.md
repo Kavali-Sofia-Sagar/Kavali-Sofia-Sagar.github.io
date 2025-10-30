@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I study how machines can learn and make decisions efficiently in changing and uncertain environments. My work focuses on teaching algorithms to learn from limited data when the information they receive is influenced by hidden or unseen factors
+        I study how machines can learn and make decisions efficiently in changing and uncertain environments. My work focuses on teaching algorithms to learn from limited data when the information they receive is influenced by hidden or unseen factors.
 
         By improving how systems collect and use data, this research helps build smarter and faster technologies for real-world applications like robotics, automation, and intelligent sensing.
 
