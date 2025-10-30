@@ -88,7 +88,7 @@ education:
 
 
 work:
-  - position: AI Research Intern
+  - position: Graduate Researcher
     company_name: Indian Institute of Technology Hyderabad
     company_url: "https://www.iith.ac.in/"
     icon: ""
@@ -104,34 +104,6 @@ work:
     date_end: "2024-07-01"
     summary: |
       Gained initial exposure to applied Research and Development workflows and disciplined software practices.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ""
-        percent: 90
-        icon: code-bracket
-      - name: Machine Learning
-        description: ""
-        percent: 100
-        icon: chart-bar
-      - name: C++
-        description: ""
-        percent: 85
-        icon: code-bracket
-
-languages:
-  - name: English
-    percent: 100
-  - name: Telugu
-    percent: 100
-  - name: Hindi
-    percent: 90
-  - name: French
-    percent: 70
 
 ---
 
