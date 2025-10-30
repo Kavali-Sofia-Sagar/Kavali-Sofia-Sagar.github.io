@@ -56,8 +56,6 @@ education:
     summary: |
       PhD Advisor: Dr. P. N. Karthik
 
-      Cumulative Grade Point Average: 8.75
-
       Relevant Courses: Probability and Stochastic Processes, Advanced
       Data Structures and Algorithms, Foundations of Machine Learning,
       Stochastic Processes: Theory and Applications, Deep Learning
