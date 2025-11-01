@@ -39,7 +39,7 @@ sections:
 
         Beyond simple cases, we handle many-way choices and messy real-world settings. We connect “find the best option” problems to this testing view, and we outline how to extend the same ideas from independent data to evolving systems like Markov and Hidden Markov Models—where you see only noisy signals and must still act quickly and confidently.
 
-        Please reach out to collaborate 😃
+        Feel free to contact me for further discussions 
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
