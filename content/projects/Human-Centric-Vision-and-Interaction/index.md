@@ -1,8 +1,8 @@
 ---
-title: Human-Centric-Vision-and-Interaction
+title: Real-Time Indian Sign Language (ISL) Detection
 date: 2023-10-26
 tags:
-  - Real-Time Indian Sign Language (ISL)
+  - Human-Centric-Vision-and-Interaction
 ---
 
 * Built a real-time web interface for hand-motion recognition using
