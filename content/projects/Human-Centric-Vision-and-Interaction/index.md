@@ -1,11 +1,7 @@
 ---
 title: Human Centric Vision and Interaction
 date: 2023-10-26
-links:
-  - type: site
-    url: 
-tags:
-  - Real-Time Indian Sign Language 
+tags: ["ML", "NLP"]
 ---
 
 * Built a real-time web interface for hand-motion recognition using
