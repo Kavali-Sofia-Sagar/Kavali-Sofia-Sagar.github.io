@@ -1,9 +1,9 @@
 ---
-title: Human-Centric Vision & Interaction
-date: 2023-10-26
+title: Human-Centric Vision and Interaction
+date: 2023-06-12
 links:
   - type: site
-    url: https://github.com/pytorch/pytorch
+    url: 
 tags:
   - Hugo
   - HugoBlox
