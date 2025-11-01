@@ -5,9 +5,7 @@ links:
   - type: site
     url: 
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Real-Time Indian Sign Language 
 ---
 
 * Built a real-time web interface for hand-motion recognition using
