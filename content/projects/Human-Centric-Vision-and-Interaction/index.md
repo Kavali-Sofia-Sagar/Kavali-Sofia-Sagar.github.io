@@ -1,5 +1,5 @@
 ---
-title: Human-Centric-Vision-and-Interaction
+title: Human Centric Vision and Interaction
 date: 2023-10-26
 links:
   - type: site
