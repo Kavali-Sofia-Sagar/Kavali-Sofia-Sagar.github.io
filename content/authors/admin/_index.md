@@ -107,7 +107,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python 
+        description: ""
+        percent: 90
+        icon: code-bracket
+      - name: Pytorch
         description: ""
         percent: 90
         icon: code-bracket
@@ -115,10 +119,42 @@ skills:
         description: ""
         percent: 100
         icon: chart-bar
+      - name: OpenCV
+        description: ""
+        percent: 85
+        icon: camera
       - name: C++
         description: ""
         percent: 85
         icon: code-bracket
+      - name: C
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: Java
+        description: ""
+        percent: 80
+        icon: cube
+      - name: HTML
+        description: ""
+        percent: 90
+        icon: globe-alt
+      - name: JavaScript
+        description: ""
+        percent: 85
+        icon: cursor-arrow-rays
+      - name: DBMS
+        description: ""
+        percent: 85
+        icon: database
+      - name: R
+        description: ""
+        percent: 75
+        icon: chart-pie
+      - name: LaTeX
+        description: ""
+        percent: 90
+        icon: document-text
 
 languages:
   - name: English
