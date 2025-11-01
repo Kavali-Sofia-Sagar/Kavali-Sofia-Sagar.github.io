@@ -10,6 +10,10 @@ tags:
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+* Built a real-time web interface for hand-motion recognition using
+MediaPipe, classifying letters, digits, words, and dynamic actions.
+
+* Lightweight descriptors for low-compute environments and implemented a text-to-sign module with touch-less
+keyboard to enhance accessibility.
 
 <!--more-->
